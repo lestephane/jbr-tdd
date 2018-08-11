@@ -7,4 +7,4 @@ onBarcode(String) : void -> Lcd::displayText(String)
 - [ ] product found -> display price
 - [ ] product not found -> display 'not found'
 - [ ] empty barcode -> display 'invalid barcode'
-- [ ] null barcode -> display 'invalid barcode'
+- [x] null barcode -> display 'invalid barcode'
